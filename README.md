@@ -1,3 +1,6 @@
+<img align="right" width="138" height="138" src="https://www.x20.org/wp-content/uploads/2015/01/NASA-logo.png">
+<img align="right" width="108" height="108" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/United_States_Naval_Academy.png">
+
 # SuperCapPiUPS
  Super capacitor to support rasberry pi graceful shutdown when primary power rail is lost
  
