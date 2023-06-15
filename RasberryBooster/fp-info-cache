@@ -1,4 +1,4 @@
-21682316904803241
+21687377312941936
 AntiDewFeet-Library
 SiP32430
 
@@ -348,7 +348,28 @@ MEKK Inductor
 
 0
 2
-1
+2
+BuckBoosterLibrary
+USNACrest
+
+
+0
+0
+0
+BuckBoosterLibrary
+ooga booga
+
+
+0
+0
+0
+BuckBoosterLibrary
+ooga booga neg
+
+
+0
+0
+0
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
