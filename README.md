@@ -7,7 +7,7 @@
 
 ### Description
 
-This PCB designed to interface on top of raspberry pi--
+This PCB designed to be a hat for rasberry pi; interface on top of a pi. This is a Buck booster. It protects the Pi from crashing when it is unplugged without properly being shut down. There is a lot of open space because I was practicing keeping components as compact as possible. It also leaves a convenient place to put the 15F 5.4V Capacitor. 
 
 
 ### Progress
